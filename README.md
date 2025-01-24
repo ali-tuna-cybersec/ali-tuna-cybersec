@@ -64,19 +64,6 @@ Development & Automation
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/socalituna)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/ali-tuna-cybersec)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali-tuna-cybersec&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-tuna-cybersec&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-## 🗣️ Languages
-
-- 🇹🇷 Turkish (Native)
-- 🇬🇧 English (Fluent)
-- 🇩🇪 German (B2)
-
 ---
 
 <div align="center">
