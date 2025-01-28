@@ -35,6 +35,17 @@ Development & Automation
 
 ## 🚀 Featured Projects
 
+### Network Scanner
+
+A Python-based network scanning tool for cybersecurity professionals and network administrators.
+
+- Performs basic network discovery and detailed port scans
+- Utilizes nmap for efficient and thorough scanning
+- Implements logging for better visibility and debugging
+- Identifies active hosts, open ports, and running services
+
+[View Project →](https://github.com/ali-tuna-cybersec/Network-Scanner)
+
 ### SOC Monitoring Lab
 - Implemented Security Onion with custom alert rules
 - Configured Splunk for log ingestion and analysis
