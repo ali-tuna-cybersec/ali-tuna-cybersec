@@ -46,17 +46,21 @@ A Python-based network scanning tool for cybersecurity professionals and network
 
 [View Project →](https://github.com/ali-tuna-cybersec/Network-Scanner)
 
-### SOC Monitoring Lab
-- Implemented Security Onion with custom alert rules
-- Configured Splunk for log ingestion and analysis
-- Developed incident response playbooks
-[View Project →](link_to_project)
+### Threat Intelligence Lookup Tool
 
-### Network Security Analysis Framework
-- Custom IDS signatures development
-- Traffic analysis automation
-- Threat detection workflows
-[View Project →](link_to_project)
+- VirusTotal Integration: Check domains, IPs, and file hashes.
+- AbuseIPDB Integration: Check IP reputation.
+- Domain to IP Resolution: Converts domain names to IP addresses for scanning.
+- Simple CLI Interface: Just enter an IP, domain, or hash, and get results.
+[View Project →](https://github.com/ali-tuna-cybersec/Threat-Lookup)
+
+###  Intrusion Detection System (IDS)
+- Detects DoS/DDoS attacks (packet rate & timing analysis) 
+- Identifies port scans (multiple port attempts from same IP)
+- Flags suspicious payloads (known malicious patterns)
+- Reduces false positives (whitelist & adaptive thresholds)
+- Logs alerts to ids.log
+[View Project →](https://github.com/ali-tuna-cybersec/basic-IDS)
 
 ### Threat Hunting Platform
 - MITRE ATT&CK integration
