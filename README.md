@@ -66,7 +66,7 @@ A Python-based network scanning tool for cybersecurity professionals and network
 - MITRE ATT&CK integration
 - Automated IOC collection
 - Custom detection rules
-[View Project →](link_to_project)
+[View Project →](https://github.com/ali-tuna-cybersec/threat-hunting-platform)
 
 ## 📚 Certifications & Education
 
